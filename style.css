@@ -1,0 +1,38 @@
+html {
+	font-family: arial;
+	background-image:url(test.jpg); 
+}
+
+h2 {
+	border: 10px solid #664F69;
+	color: red;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+body  {
+	background-color: yellow;
+	color: green;
+	font-size: 20px;
+	font-weight: bold;
+	border: 10px solid #634F69;
+	margin-left:66px;
+	margin-right:55px;
+	font-size: 20px;
+}
+div {
+	background-color: cyan;
+	text-align: center;
+	border: 10px solid #664F69;
+}
+ol {
+	list-style:decimal;
+	font-colour: ;
+
+}
+ul {
+	text-align: center;
+	list-style:circle;
+	list-style-image:url(H:\informatik\internettechnologien\html\060.gif);
+}
