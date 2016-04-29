@@ -1,10 +1,13 @@
 html {
-	font-family: arial;
-	background-image:url(wtf.jpg); 
+	font-family: arial; 
  }
  h1{
 	color: black;
 	font-size: 40px;
 	text-align: center;
 
+ }
+ span {
+ 	width: 200px;
+ 	display: inline-block;
  }
